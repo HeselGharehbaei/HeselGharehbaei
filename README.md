@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello 🙋‍♀️👋 I’m HeselGharehbaei<br>👩‍💻 I’m a junior Python and Django developer<br>🌿 I have a strong passion for programming and advancing in this field.<br>🏆 I’ve completed three projects, available in the repositories on my GitHub profile.<br>👯‍♀️ I’m eager to collaborate as a programmer in team projects.
+Hello 🙋‍♀️👋 I’m HeselGharehbaei<br>👩‍💻 I’m a junior Python and Django developer<br>🌿 I've a strong passion for programming and advancing in this field.<br>🏆 I’ve completed three projects, available in the repositories on my GitHub profile.<br>👯‍♀️ I’m eager to collaborate as a programmer in team projects.
 
 
 ## 🌐 Socials:
