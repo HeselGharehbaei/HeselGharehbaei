@@ -1,4 +1,5 @@
-Hello 🙋‍♀️👋 I’m HeselGharehbaei<br>
+# 🙋‍♀️👋 Hello 
+# I’m HeselGharehbaei<br>
 # 💫 About Me:
 👩‍💻 I’m a  junior Python/Django developer.<br> 🌿I love programming and want to get better at it.<br>🏆 I've finished three projects, which you can check on my GitHub profile. <br>👯‍♀️I'm also excited to work with others on programming projects.
 
@@ -20,7 +21,7 @@ Hello 🙋‍♀️👋 I’m HeselGharehbaei<br>
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=HeselGharehbaei&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=HeselGharehbaei&limit=5&theme=monokai&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=HeselGharehbaei&icon=0&color=0)](https://visitcount.itsvg.in)
